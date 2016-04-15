@@ -66,6 +66,12 @@ blockquote
 	-moz-box-shadow: 1px 3px 3px #bcbcbc;
 }
 
+.gridsym
+{
+	margin: 0;
+	padding: 0;
+}
+
 /* Navigation */
 
 nav
@@ -245,6 +251,12 @@ nav .title
 	width: 100%;
 	margin-bottom: 4%;
 	background: #f6fbfd url(back.png);
+}
+
+.jdns
+{
+	margin: 0;
+	padding: 0;
 }
 
 .sidebar li a
